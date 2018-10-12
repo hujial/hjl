@@ -9,7 +9,7 @@ int main()
 	cout <<" pleases enter your first name:" ;
 	string name;
 	cin >> name;
-	cout << "hello ," << name <<"!!!!" << endl;
+	cout << "Good morning ," << name <<"!!!!" << endl;
 	return 0;
 }
 	
